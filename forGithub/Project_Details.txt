@@ -1,0 +1,41 @@
+Documentation
+
+Game Title: Mission Impossible
+Developers: Ammar, Zain, Sania
+Course: Programming Fundamentals
+Instructor: Sir Mughees Ismail
+Submission Date: December 20th, 2024
+
+
+Introduction:
+"Mission Impossible" is an action-packed game where players step into the shoes of Ethan, a heroic character, on a thrilling mission to eliminate enemies and survive against all odds. The game consists of five challenging levels. This project combines creativity and programming skills to deliver an exciting and immersive gaming experience.
+
+Game Concept:
+"Mission Impossible" is a fast-paced action game that challenges players to guide Ethan, the heroic protagonist, through a series of dangerous levels. Equipped with the ability to shoot enemies, Ethan must navigate through treacherous terrain, defeat foes, and strategically pass through doors to progress to the next level. Players are given three lives to complete the game, adding a layer of urgency and challenge. The ultimate test comes in the form of Solomon, a relentless big bad guy who never dies, making each encounter with him a thrilling battle for survival. With its engaging mechanics and escalating difficulty, "Mission Impossible" delivers a thrilling adventure for players.
+
+Features:
+"Mission Impossible" is packed with engaging features designed to enhance the player’s experience:
+
+Main Menu with Theme Song: The game opens with a dynamic main menu accompanied by an exciting theme song, setting the tone for the adventure.
+
+Creative ASCII Art Menu Design: The menu is crafted using text-to-ASCII art, showcasing creativity and providing a visually appealing interface.
+
+Sound Effects: Immersive sound effects are included when Ethan shoots enemies and when he loses a life, adding to the intensity of gameplay.
+
+High Score Menu: A dedicated high score menu tracks the player’s best achievements, encouraging replayability and competition.
+
+Credits and Help Menu: The game features a credits section to acknowledge the creators and a help menu to guide players through the gameplay mechanics and controls.
+
+
+These features work together to create an interactive, engaging, and memorable gaming experience.
+
+Tools and Technologies:
+"Mission Impossible" was developed using the C++ programming language, utilizing concepts such as arrays and functions to build the game mechanics. We worked within a basic Integrated Development Environment (IDE) to write, test, and debug our code. This project reflects our understanding of foundational programming concepts learned in our first semester of BS CS.
+
+
+
+Challenges Faced:
+During the development of "Mission Impossible," we encountered a few challenges that tested our problem-solving skills. One of the main issues was implementing accurate collision checks between Ethan and the enemies, ensuring that interactions were detected correctly. Additionally, we faced difficulties with the shooting mechanism, which required fine-tuning to work as intended. Despite these obstacles, we worked together as a team, explored different solutions, and successfully resolved the issues, enhancing both the gameplay and our learning experience.
+
+Conclusion:
+Developing "Mission Impossible" has been an exciting and rewarding journey for us as first-semester students. This project allowed us to apply our programming knowledge, explore creative ideas, and tackle real-world challenges. From designing gameplay mechanics to solving technical issues, we gained valuable experience and a deeper understanding of programming fundamentals. We are proud of what we have achieved and hope players enjoy the game as much as we enjoyed creating it. This project marks the beginning of our journey in computer science, and we look forward to exploring more complex and innovative projects in the future.
